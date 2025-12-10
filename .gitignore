@@ -1,0 +1,25 @@
+# 数据（千万别传！）
+dataset/
+data/
+*.h5
+*.pth
+*.pt
+*.zip
+*.tar.gz
+
+# 日志和大文件
+results/
+__pycache__/
+*.log
+wandb/
+*.png
+*.jpg
+*.jpeg
+
+# 临时文件
+.DS_Store
+Thumbs.db
+
+results
+
+/workspace/test_results_full

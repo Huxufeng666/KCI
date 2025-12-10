@@ -1,0 +1,5 @@
+{
+    "python.plotting.backend": "none",
+    "jupyter.enablePlotViewer": false,
+    "plotViewer.enablePlotViewer": false
+}
